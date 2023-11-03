@@ -143,7 +143,7 @@ Adds a contact to JobFestGo.
 
 Format: `add_contact n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS [t/TAG]…​`
 
-* Contact name can take any alphanumeric values only.
+* Contact name can only take alphanumeric values
 * A contact can have any number of tags
 * Email should be in the appropriate (@xxx.com) format
 * Phone number should be in appropriate (8-digit numeric) format
