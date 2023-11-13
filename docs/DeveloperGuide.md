@@ -857,8 +857,6 @@ Return to [table of contents](#table-of-contents).
 
 2. JobFestGo displays the contacts and tasks related to the event.
 
-3. User <u>adds a task</u> or <u>deletes a task</u> or <u>marks a task</u> or <u>unmarks a task</u>.
-
       Use case ends.
 
 **Extensions**
