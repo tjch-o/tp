@@ -15,6 +15,7 @@ Here’s an **overview** of how JobFestGo can help you with your event planning:
 - Search for contacts by name or tag
 
 Optimized for use via a **Command Line Interface (CLI)** while still having the benefits of a **Graphical User Interface (GUI)**, JobFestGo is a management tool tailored for **job festival event planners**. With systematic organization of contacts and tasks, you can **enhance productivity** and **streamline your workflow** effortlessly!
+
 Given below are my contributions to the project.
 
 * **Enhancements implemented**:
@@ -68,7 +69,4 @@ Given below are my contributions to the project.
 <br>
 
 * **Contributions beyond the project team**:
-  - I help one other team with product testing and here are some of the bugs I have reported:
-    - [Bug 1](https://github.com/xyT-T/ped/issues/2)
-    - [Bug 2](https://github.com/xyT-T/ped/issues/7)
-    - [Bug 3](https://github.com/xyT-T/ped/issues/13)
+  - I help one other team with product testing: [PE-D Bugs](https://github.com/xyT-T/ped/issues)
