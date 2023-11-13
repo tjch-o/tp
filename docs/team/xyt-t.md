@@ -69,7 +69,4 @@ Given below are my contributions to the project.
 <br>
 
 * **Contributions beyond the project team**:
-  - I help one other team with product testing and here are some of the bugs I have reported:
-    - [Bug 1](https://github.com/xyT-T/ped/issues/2)
-    - [Bug 2](https://github.com/xyT-T/ped/issues/7)
-    - [Bug 3](https://github.com/xyT-T/ped/issues/13)
+  - I help one other team with product testing: [PE-D Bugs](https://github.com/xyT-T/ped/issues)
